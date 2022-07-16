@@ -60,7 +60,7 @@ mainmenu() {
     git clone https://github.com/AUTOSAFE/spam &> /dev//null
     cd spam
     npm i
-    node start
+    npm start
     echo "[√] Terimakasih Telah Menggunakan Script ini"
     elif [ $pil == "3" ];then
     git clone https://github.com/Brezxy/Stumble-Guys &> /dev//null
